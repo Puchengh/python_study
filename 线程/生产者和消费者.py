@@ -12,6 +12,8 @@ LIHO（后入先出）(栈)队列 lifeQueue  和优先级队列Priorityqueue 这
 """
 
 
+
+
 import threading
 import queue
 import random
